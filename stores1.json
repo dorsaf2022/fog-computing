@@ -1,0 +1,206 @@
+[
+    {
+        "store_id": 1,
+        "store_name": "Magasin A",
+        "location": {
+            "city": "Paris",
+            "postal_code": "75001",
+            "address": "12 Rue de la Paix"
+        },
+        "manager": {
+            "name": "Marie Dupont",
+            "years_of_experience": 5,
+            "contact": "marie.dupont@magasinA.com"
+        },
+        "store_type": "Electronics",
+        "opening_year": 2010,
+        "sales": {
+            "monthly_sales": [100, 150, 200, 250, 300, 1234, 1223],
+            "last_year_sales": [2000, 2200, 1800, 2400, 2600, 2500, 2700, 2800, 2900, 3000, 3100, 3200, 1234, 156, 12590],
+            "predicted_sales_next_month": 350
+        },
+        "expenses": {
+            "rent": 1000,
+            "salaries": 500,
+            "utilities": 100
+        },
+        "customer_traffic": {
+            "daily_customers": [50, 60, 55, 65, 70],
+            "average_purchase_per_customer": 40
+        },
+        "promotions": {
+            "current_promotion": "10% off on all products",
+            "promotion_effectiveness": 15
+        }
+    },
+    {
+        "store_id": 2,
+        "store_name": "Magasin B",
+        "location": {
+            "city": "Lyon",
+            "postal_code": "69001",
+            "address": "45 Avenue des Champs"
+        },
+        "manager": {
+            "name": "Jean Martin",
+            "years_of_experience": 8,
+            "contact": "jean.martin@magasinB.com"
+        },
+        "store_type": "Clothing",
+        "opening_year": 2015,
+        "sales": {
+            "monthly_sales": [120, 180, 220, 2400, 310, 1234, 2000, 2025],
+            "last_year_sales": [2500, 2300, 2000, 3100, 2900, 2700, 2600, 2500, 2400, 2300, 2200, 2100, 3456, 123, 1234],
+            "predicted_sales_next_month": 280
+        },
+        "expenses": {
+            "rent": 900,
+            "salaries": 450,
+            "utilities": 90
+        },
+        "customer_traffic": {
+            "daily_customers": [45, 50, 48, 52, 60],
+            "average_purchase_per_customer": 35
+        },
+        "promotions": {
+            "current_promotion": "Buy one get one 50% off",
+            "promotion_effectiveness": 20
+        }
+    },
+    {
+        "store_id": 3,
+        "store_name": "Magasin C",
+        "location": {
+            "city": "Marseille",
+            "postal_code": "13001",
+            "address": "22 Rue de la République"
+        },
+        "manager": {
+            "name": "Sophie Leblanc",
+            "years_of_experience": 6,
+            "contact": "sophie.leblanc@magasinC.com"
+        },
+        "store_type": "Home Appliances",
+        "opening_year": 2012,
+        "sales": {
+            "monthly_sales": [130, 160, 210, 260, 310, 200, 400],
+            "last_year_sales": [1800, 2000, 2200, 2100, 2500, 2700, 3000, 3200, 3100, 2800, 2600, 2400, 2000, 4000],
+            "predicted_sales_next_month": 330
+        },
+        "expenses": {
+            "rent": 950,
+            "salaries": 480,
+            "utilities": 95
+        },
+        "customer_traffic": {
+            "daily_customers": [55, 65, 60, 70, 75],
+            "average_purchase_per_customer": 45
+        },
+        "promotions": {
+            "current_promotion": "Free delivery on all items",
+            "promotion_effectiveness": 18
+        }
+    },
+    {
+        "store_id": 4,
+        "store_name": "Magasin D",
+        "location": {
+            "city": "Nice",
+            "postal_code": "06000",
+            "address": "15 Boulevard Victor Hugo"
+        },
+        "manager": {
+            "name": "Alain Bernard",
+            "years_of_experience": 10,
+            "contact": "alain.bernard@magasinD.com"
+        },
+        "store_type": "Furniture",
+        "opening_year": 2008,
+        "sales": {
+            "monthly_sales": [90, 140, 190, 230, 280, 310, 370],
+            "last_year_sales": [1900, 2100, 2200, 2000, 2300, 2500, 2700, 2900, 3100, 3200, 3300, 3400, 1500, 3200],
+            "predicted_sales_next_month": 360
+        },
+        "expenses": {
+            "rent": 1050,
+            "salaries": 520,
+            "utilities": 110
+        },
+        "customer_traffic": {
+            "daily_customers": [48, 55, 52, 58, 65],
+            "average_purchase_per_customer": 42
+        },
+        "promotions": {
+            "current_promotion": "15% off on selected items",
+            "promotion_effectiveness": 22
+        }
+    },
+    {
+        "store_id": 5,
+        "store_name": "Magasin E",
+        "location": {
+            "city": "Toulouse",
+            "postal_code": "31000",
+            "address": "10 Place du Capitole"
+        },
+        "manager": {
+            "name": "Elise Robert",
+            "years_of_experience": 7,
+            "contact": "elise.robert@magasinE.com"
+        },
+        "store_type": "Sports Equipment",
+        "opening_year": 2013,
+        "sales": {
+            "monthly_sales": [110, 160, 210, 250, 280, 315, 400],
+            "last_year_sales": [1600, 1700, 1800, 2100, 2300, 2500, 2700, 2900, 3100, 3300, 3500, 3600, 2700, 2200],
+            "predicted_sales_next_month": 380
+        },
+        "expenses": {
+            "rent": 1000,
+            "salaries": 510,
+            "utilities": 105
+        },
+        "customer_traffic": {
+            "daily_customers": [50, 60, 55, 62, 70],
+            "average_purchase_per_customer": 38
+        },
+        "promotions": {
+            "current_promotion": "20% off on sports gear",
+            "promotion_effectiveness": 25
+        }
+    },
+    {
+        "store_id": 6,
+        "store_name": "Magasin F",
+        "location": {
+            "city": "Bordeaux",
+            "postal_code": "33000",
+            "address": "5 Rue Sainte-Catherine"
+        },
+        "manager": {
+            "name": "Lucas Girard",
+            "years_of_experience": 4,
+            "contact": "lucas.girard@magasinF.com"
+        },
+        "store_type": "Books",
+        "opening_year": 2018,
+        "sales": {
+            "monthly_sales": [100, 120, 130, 150, 160, 170, 180],
+            "last_year_sales": [1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, 2000, 2100, 2200, 2300, 1800, 1750],
+            "predicted_sales_next_month": 200
+        },
+        "expenses": {
+            "rent": 800,
+            "salaries": 400,
+            "utilities": 80
+        },
+        "customer_traffic": {
+            "daily_customers": [40, 45, 43, 47, 50],
+            "average_purchase_per_customer": 25
+        },
+        "promotions": {
+            "current_promotion": "Buy 2 books, get 1 free",
+            "promotion_effectiveness": 12
+        }
+    }
+]
